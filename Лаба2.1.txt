@@ -2,6 +2,7 @@
 
 //pravka1
 //pravka2
+//pravka3
 
 #include <stdio.h>
 #include <Windows.h>
