@@ -1,7 +1,7 @@
 ЗАДАЧА 2.1.2. Максимум из 3 чисел(2)
 
 //pravka1
-
+//pravka2
 
 #include <stdio.h>
 #include <Windows.h>
